@@ -1,7 +1,7 @@
-project-template
+Repo structure
 ==============================
 
-template for the team to use
+This comes from the aicoe-aiops project-template
 
 Project Organization
 ------------
