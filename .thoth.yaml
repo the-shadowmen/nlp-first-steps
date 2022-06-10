@@ -12,15 +12,11 @@ runtime_environments:
 
 managers:
   - name: pipfile-requirements
-  - name: update
+  - name: thoth-advise
     configuration:
       labels: [bot]
   - name: info
   - name: version
     configuration:
-      maintainers:
-        - tumido
-      assignees:
-        - sesheta
       labels: [bot]
       changelog_file: true
